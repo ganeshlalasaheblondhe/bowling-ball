@@ -1,5 +1,4 @@
-﻿using System;
-using BowlingBall.Tests.Helpers;
+﻿using BowlingBall.Tests.Helpers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BowlingBall.Tests
